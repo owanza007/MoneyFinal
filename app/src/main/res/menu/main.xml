@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/changeCurrency"
+        android:orderInCategory="100"
+        android:title="สกุลเงิน"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/monthlyYearly"
+        android:orderInCategory="100"
+        android:title="ราย ว/ด/ป"
+        app:showAsAction="never" />
+
+
+</menu>

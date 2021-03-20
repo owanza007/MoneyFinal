@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "563844317869",
+    "firebase_url": "https://moneyforyou-eb635-default-rtdb.firebaseio.com",
+    "project_id": "moneyforyou-eb635",
+    "storage_bucket": "moneyforyou-eb635.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563844317869:android:cd26307c758bc1428afc24",
+        "android_client_info": {
+          "package_name": "com.second.moneymanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563844317869-5g7k37qru2fqa738sb0ui4krhlhm4rav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGUWwF6FD--Cv7hTwMK0V7u67D15aCpug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563844317869-5g7k37qru2fqa738sb0ui4krhlhm4rav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

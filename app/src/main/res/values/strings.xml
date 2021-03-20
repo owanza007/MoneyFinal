@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Money Manager</string>
+    <string name="tvAccount">1200 LEI</string>
+    <string name="add_expense">เพิ่มรายจ่าย</string>
+    <string name="add_income">เพิ่มรายรับ</string>
+    <string name="cancel">ยกเเลิก</string>
+    <string name="save">เบันทึก</string>
+    <string name="cantity">Cantity</string>
+    <string name="date">วันที่</string>
+    <string name="price">ราคา</string>
+    <string name="product">ชนิด</string>
+    <string name="saveI">บันทึก</string>
+    <string name="sum">ผลรวม</string>
+    <string name="type">ชนิด</string>
+    <string name="add">เพิ่ม</string>
+    <string name="quantity">ปริมาณ</string>
+    <string name="income">รายรับ</string>
+    <string name="expense">รายจ่าย</string>
+    <string name="textview">TextView</string>
+    <string name="monthly">รายเดือน</string>
+    <string name="daily">รายวัน</string>
+    <string name="yearly">รายปี</string>
+    <string name="title_activity_adding_category">เพิ่มประเภท</string>
+    <string name="ad_id_banner">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="title_activity_privacy_policy">-</string>
+    <string name="ad_id_interstitial">ca-app-pub-7744357389506091/9257560120</string>
+
+</resources>
